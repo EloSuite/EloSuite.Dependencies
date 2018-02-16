@@ -7,6 +7,9 @@
       "Download": "https://raw.github.com/EloSuite/EloSuite.Dependencies/master/Dependencies/Bootstrap.dll"
     }
   },
+  "Core":
+  {
+  },
   "Loader": 
   {
     "MD5": "",
