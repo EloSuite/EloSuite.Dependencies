@@ -3,8 +3,8 @@
   {
     "Dependencies\\Bootstrap.dll": 
     {
-      "MD5": "74e943449b911da623f8d62981cbf502",
-      "Download": "https://raw.github.com/EloSuite/EloSuite.Dependencies/master/Dependencies/Bootstrap.dll"
+      "Hash": "74e943449b911da623f8d62981cbf502",
+      "Url": "https://raw.github.com/EloSuite/EloSuite.Dependencies/master/Dependencies/Bootstrap.dll"
     }
   },
   "Core":
@@ -12,7 +12,7 @@
   },
   "Loader": 
   {
-    "MD5": "",
-    "Download": "https://raw.github.com/EloSuite/EloSuite.Dependencies/master/Loader/Loader.exe"
+    "Hash": "",
+    "Url": "https://raw.github.com/EloSuite/EloSuite.Dependencies/master/Loader/Loader.exe"
   }
 }
